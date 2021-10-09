@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jordi Riera</h1>
 <h3 align="center">A passionate full stack developer from Barcelona</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jriera" alt="jriera" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jriera&theme=onedark" alt="jriera" /></a> </p>
 
 - 🔭 I’m currently working on [Image Processing API](https://github.com/Jriera/IP-API)
 
