@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jriera&theme=onedark" alt="jriera" /></a> </p>
 
-- 🔭 I’m currently working on [Image Processing API](https://github.com/Jriera/IP-API)
+- 🔭 I’m currently working on [e-store Backend (node-express-PostgresSQL)](https://github.com/Jriera/e-store_backend_api)
 
 - 🌱 I’m currently learning **Angular, because it was about time**
 
