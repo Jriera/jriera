@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Jordi Riera</h1>
-<h3 align="center">A passionate full stack developer from Barcelona</h3>
+<h3 align="center">A passionate full stack development student from Barcelona</h3>
 
 
 
-- 🔭 I’m currently working as **Fullstack JS freelancer**
 
-- 🌱 I’m currently learning **AWS and deployment**
+- 🌱 I’m currently learning **AWS and deployment** and **Angular**
 
 - 👯 I’m looking to collaborate on **Angular projects**
 
@@ -13,7 +12,7 @@
 
 - 📫 How to reach me **jordiriera81@gmail.com**
 
-- ⚡ Fun fact **I have 2 crazy dogs, crazier than me**
+- ⚡ Fun fact **I have 2 crazy dogs even crazier than me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
