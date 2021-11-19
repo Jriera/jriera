@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jordi Riera</h1>
-<h3 align="center">A passionate full stack development student from Barcelona</h3>
+<h3 align="center">A passionate full stack development from Barcelona</h3>
 
 
 
