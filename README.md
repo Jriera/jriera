@@ -4,7 +4,7 @@
 
 
 
-- 🌱 I’m currently learning **AWS and deployment** and **Angular**
+- 🌱 I’m currently learning **AWS and deployment**
 
 - 👯 I’m looking to collaborate on **Angular projects**
 
