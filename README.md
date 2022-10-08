@@ -4,11 +4,11 @@
 
 
 
-- 🌱 I’m currently learning **AWS and deployment**
+- 🌱 I’m currently learning **AWS and CI/CD**
 
 - 👯 I’m looking to collaborate on **Angular projects**
 
-- 💬 Ask me about **html,css,javascript,angular**
+- 💬 Ask me about **html,css,javascript,Typescript,RxJs,angular**
 
 - 📫 How to reach me **jordiriera81@gmail.com**
 
