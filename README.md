@@ -18,7 +18,7 @@
 <p align="left">
 <a href="https://twitter.com/renaisense_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="renaisense_" height="30" width="40" /></a>
 <a href="https://medium.com/@idjor1981" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@idjor1981" height="30" width="40" /></a>
-  <a href="https://medium.com/@idjor1981" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@idjor1981" height="30" width="40" /></a>
+  <a href="https://dev.to/renaisense_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@idjor1981" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
